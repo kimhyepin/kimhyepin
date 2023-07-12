@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👋 Hi I'm hyebin! 
 
+### 🔭 I'm studying System Management Engineering at Pukong National Univ. 
+
+### 💬 Welcome To my Github
+ 
 <!--
 **kimhyepin/kimhyepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
