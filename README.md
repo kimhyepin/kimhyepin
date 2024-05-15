@@ -1,8 +1,10 @@
-👋 Hi I'm hyebin! 
+👋 Hi, I'm Hyebin!
 
-🔭 I'm studing at Pukong National Univ. 
+🔭 I'm studying at Pukyong National University, Smart Manufacturing Lab.
 
-💬 Welcome To my Github.
+💬 Welcome to my GitHub.
+
+
  
 <!--
 **kimhyepin/kimhyepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
